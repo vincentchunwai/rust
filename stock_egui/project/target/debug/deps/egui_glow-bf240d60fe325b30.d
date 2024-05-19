@@ -1,0 +1,11 @@
+/Users/vincent/rust/stock_egui/project/target/debug/deps/libegui_glow-bf240d60fe325b30.rmeta: /Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/lib.rs /Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/painter.rs /Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/misc_util.rs /Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/shader_version.rs /Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/vao.rs /Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/shader/vertex.glsl /Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/shader/fragment.glsl
+
+/Users/vincent/rust/stock_egui/project/target/debug/deps/egui_glow-bf240d60fe325b30.d: /Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/lib.rs /Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/painter.rs /Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/misc_util.rs /Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/shader_version.rs /Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/vao.rs /Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/shader/vertex.glsl /Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/shader/fragment.glsl
+
+/Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/lib.rs:
+/Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/painter.rs:
+/Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/misc_util.rs:
+/Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/shader_version.rs:
+/Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/vao.rs:
+/Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/shader/vertex.glsl:
+/Users/vincent/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.27.2/src/shader/fragment.glsl:
